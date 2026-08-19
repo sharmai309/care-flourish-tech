@@ -146,7 +146,7 @@ function EcosystemSection() {
           </div>
         </div>
 
-        <div className="grid md:grid-cols-3 gap-6">
+        <div className="grid md:grid-cols-2 gap-6">
           <div className="group bg-white/5 border border-white/10 p-8 rounded-3xl hover:bg-white/10 transition-all card-3d">
             <span className="font-mono text-[10px] text-accent mb-6 block uppercase tracking-widest">
               Monitoring Platform
@@ -163,29 +163,15 @@ function EcosystemSection() {
 
           <div className="group bg-white/5 border border-white/10 p-8 rounded-3xl hover:bg-white/10 transition-all card-3d">
             <span className="font-mono text-[10px] text-accent mb-6 block uppercase tracking-widest">
-              Sustainability
+              Global Staffing
             </span>
-            <h3 className="text-2xl font-display font-bold mb-4">Cavalop Tech</h3>
+            <h3 className="text-2xl font-display font-bold mb-4">Commodex America</h3>
             <p className="text-sm text-background/50 mb-8">
-              AI-driven climate and health tech initiatives dedicated to
-              greener healthcare environments.
+              A pioneering healthcare staffing network connecting specialized
+              caregivers with families worldwide.
             </p>
             <div className="flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-accent group-hover:gap-4 transition-all">
-              View Initiative <span className="text-lg">→</span>
-            </div>
-          </div>
-
-          <div className="group bg-white/5 border border-white/10 p-8 rounded-3xl hover:bg-white/10 transition-all card-3d">
-            <span className="font-mono text-[10px] text-accent mb-6 block uppercase tracking-widest">
-              Asset Strategy
-            </span>
-            <h3 className="text-2xl font-display font-bold mb-4">California Carmel</h3>
-            <p className="text-sm text-background/50 mb-8">
-              Asset strategies aligned with long-term community value across
-              California and Nevada.
-            </p>
-            <div className="flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-accent group-hover:gap-4 transition-all">
-              Portfolio <span className="text-lg">→</span>
+              View Network <span className="text-lg">→</span>
             </div>
           </div>
         </div>
