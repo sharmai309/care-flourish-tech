@@ -283,11 +283,6 @@ function Footer() {
                   Staffing
                 </a>
               </li>
-              <li>
-                <a href="#ecosystem" className="hover:text-primary transition-colors">
-                  Real Estate
-                </a>
-              </li>
             </ul>
           </div>
           <div>
