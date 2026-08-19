@@ -73,7 +73,7 @@ function HeroSection() {
       <div className="max-w-6xl mx-auto grid lg:grid-cols-2 gap-16 items-center">
         <div className="animate-[reveal_0.8s_var(--ease-out-expo)_both]">
           <span className="font-mono text-[10px] uppercase tracking-widest text-accent mb-4 block">
-            Est. 1985 — Northern California
+            Est. 2024 — Northern California
           </span>
           <h1 className="text-6xl md:text-8xl font-display font-extrabold tracking-tighter leading-[0.9] text-balance mb-8">
             Living the <br />
