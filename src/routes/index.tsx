@@ -7,9 +7,9 @@ export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
       { title: "Evergreen Haven Healthcare LLC — Living the Future of Care" },
-      { name: "description", content: "A multi-disciplinary healthcare enterprise elevating senior wellness through innovation, compassion, and climate-conscious health technology." },
+      { name: "description", content: "A multi-disciplinary healthcare enterprise elevating senior wellness through innovation, compassion, and connected care technology." },
       { property: "og:title", content: "Evergreen Haven Healthcare LLC — Living the Future of Care" },
-      { property: "og:description", content: "A multi-disciplinary healthcare enterprise elevating senior wellness through innovation, compassion, and climate-conscious health technology." },
+      { property: "og:description", content: "A multi-disciplinary healthcare enterprise elevating senior wellness through innovation, compassion, and connected care technology." },
       { property: "og:type", content: "website" },
       { property: "og:url", content: "/" },
       { name: "twitter:card", content: "summary_large_image" },
