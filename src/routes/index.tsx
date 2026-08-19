@@ -83,8 +83,8 @@ function HeroSection() {
             of Care
           </h1>
           <p className="max-w-[42ch] text-lg text-muted-foreground leading-relaxed mb-10">
-            Elevating senior wellness through multi-generational compassion,
-            purpose-driven innovation, and climate-conscious health tech.
+            Elevating senior wellness through multi-generational compassion
+            and purpose-driven HealthTech.
           </p>
           <div className="flex flex-wrap gap-4">
             <a
