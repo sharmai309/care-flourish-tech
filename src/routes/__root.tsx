@@ -82,6 +82,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { property: "og:title", content: "Evergreen Haven Healthcare LLC" },
       { property: "og:description", content: "Living the future of care through innovation, compassion, and purpose-driven health strategies." },
       { property: "og:type", content: "website" },
+      { name: "google-site-verification", content: "YGleaoB_c5S9iav0JiDTVrMGWp4Zo3fXc2loUgP7aUc" },
       { name: "twitter:card", content: "summary_large_image" },
       { name: "twitter:site", content: "@EvergreenHaven" },
     ],
