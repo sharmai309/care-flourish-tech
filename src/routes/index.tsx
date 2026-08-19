@@ -1,4 +1,4 @@
-import { createFileRoute } from "@tanstack/react-router";
+import { createFileRoute, Link } from "@tanstack/react-router";
 
 import havenEnvironment from "../assets/haven-environment.jpg";
 import staffingNetworks from "../assets/staffing-networks.jpg";
