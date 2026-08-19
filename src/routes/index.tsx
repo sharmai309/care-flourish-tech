@@ -1,4 +1,4 @@
-import { createFileRoute } from "@tanstack/react-router";
+import { createFileRoute, Link } from "@tanstack/react-router";
 
 import havenEnvironment from "../assets/haven-environment.jpg";
 import staffingNetworks from "../assets/staffing-networks.jpg";
@@ -52,6 +52,10 @@ function Navigation() {
         <a href="#staffing" className="hover:text-primary transition-colors">
           Global Staffing
         </a>
+        <Link to="/care-monitor" className="hover:text-primary transition-colors">
+          Care Monitor
+        </Link>
+
         <a
           href="#contact"
           className="px-5 py-2.5 bg-foreground text-background rounded-full font-semibold hover:bg-accent transition-all"
