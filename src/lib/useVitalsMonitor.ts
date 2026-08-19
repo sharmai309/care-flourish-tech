@@ -24,7 +24,7 @@ function sfloat(value: DataView, offset: number): number {
   return mantissa * Math.pow(10, exponent);
 }
 
-function parseBloodPressure(value: DataView): { systolic: number; diastolic: number; pulse?: number } {
+function parseBloodPressure(value: DataView): { systolic: number; diastolic: number; pulse?: number | undefined } {
   const flags = value.getUint8(0);
   const systolic = sfloat(value, 1);
   const diastolic = sfloat(value, 3);
